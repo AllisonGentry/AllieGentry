@@ -1,4 +1,4 @@
-!https://www.kindpng.com/picc/m/177-1771186_huge-selection-of-chevy-dodge-and-ford-diesel.png
+![Dodge,Chevorlet, Ford](https://www.kindpng.com/picc/m/177-1771186_huge-selection-of-chevy-dodge-and-ford-diesel.png)
 # Truck Models released in 2019
   
 Dodge
@@ -29,5 +29,6 @@ Ford
 * Super Duty
   
 [https://www.ramtrucks.com/all-vehicles.html]
+  
 [https://media.chevrolet.com/media/us/en/chevrolet/archive/2019.html]
 [https://shop.ford.com/showroom/?gnav=header-all-vehicles#/]
