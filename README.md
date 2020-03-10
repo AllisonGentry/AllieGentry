@@ -34,7 +34,7 @@ Ford
   
 [https://shop.ford.com/showroom/?gnav=header-all-vehicles#/]
 
-'''javascript
-var s = "JavaScript syntax highlighting";
+```javascript
+var s = "Javascript syntax highlighting";
 alert(s);
-'''
+```
