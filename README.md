@@ -38,3 +38,9 @@ Ford
 var s = "Javascript syntax highlighting";
 alert(s);
 ```
+
+| Truck Brands  | 2019 Models   | Price |
+| ------------- |:-------------:| -----:|
+| Dodge         | Ram 1500      |$32,145|
+| Chevrolet     | Silverado     |$29,795|
+| Ford          | F-150 XL      |$28,745|
