@@ -1,19 +1,17 @@
-# Car Brands
-* Acura
-* Audi
-* Buick
-* Cadillac
-* Chevrolet
-* Dodge
-* Fiat
-* General Motors
-* Honda
-* Hyundai
-* Infiniti
+# Truck Models in 2019
   
-[https://www.carlogos.org/All-List]
-![logo](https://s8096.pcdn.co/wp-content/uploads/2013/08/car-brands.jpg)
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+Dodge
+=====
+* Ram 1500
+* Ram 2500
+* Ram 3500
+* Ram Chassis Cab
+* Ram 1500 Classic  
+
+Chevrolet
+=========
+
+Ford
+====
+
+[https://www.ramtrucks.com/all-vehicles.html]
