@@ -42,6 +42,14 @@ Ford
 
 > Other Truck Brands are: GMC(General Motors Company), Toyota, and Honda.
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 ```javascript
 var s = "Javascript syntax highlighting";
 alert(s);
