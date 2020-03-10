@@ -13,3 +13,7 @@
   
 [https://www.carlogos.org/All-List]
 ![logo](https://s8096.pcdn.co/wp-content/uploads/2013/08/car-brands.jpg)
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
