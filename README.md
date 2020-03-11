@@ -51,6 +51,8 @@ Ford
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+---
+
 ```javascript
 var s = "Javascript syntax highlighting";
 alert(s);
