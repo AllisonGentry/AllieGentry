@@ -52,6 +52,7 @@ Ford
 * Honda
 * Rivian
 * Tesla
+  
 [![Rivian Electric Truck](https://www.youtube.com/watch?v=QMfxJEfb4lw)
   
 ---
