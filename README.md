@@ -50,10 +50,12 @@ Ford
   
 # Electric Truck Brands
 * Honda
+* Rivian
 * Tesla
+[![Rivian Electric Truck](https://www.youtube.com/watch?v=QMfxJEfb4lw)
   
 ---
-
+  
 ```javascript
 var s = "Javascript syntax highlighting";
 alert(s);
