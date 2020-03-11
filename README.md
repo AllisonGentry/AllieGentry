@@ -53,8 +53,7 @@ Ford
 * Rivian
 * Tesla
   
-[![Rivian Electric Truck](https://www.youtube.com/watch?v=QMfxJEfb4lw)
-  
+[![Rivian Electric Truck](https://www.chicagotribune.com/resizer/podHNubqZlyqdD6X_pThFDBlOhw=/1200x0/top/www.trbimg.com/img-5bfc538e/turbine/sc-auto-tips-1128-rivian-electric-vehicle-20181126)](https://www.youtube.com/watch?v=QMfxJEfb4lw)
 ---
   
 ```javascript
