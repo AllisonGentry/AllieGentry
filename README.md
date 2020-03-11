@@ -47,10 +47,11 @@ Ford
   <dd>150/1500: The truck is capable of 1500 pound capacity.</dd>
   <dd>250/2500: The truck is capable of 2500 pound capacity.</dd>
   <dd>350/3500: The truck is capable of 3500 pound capacity.</dd>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
+  
+# Electric Truck Brands
+* Honda
+* Tesla
+  
 ---
 
 ```javascript
