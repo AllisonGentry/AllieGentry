@@ -44,7 +44,7 @@ Ford
 
 <dl>
   <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dd>*ZR2 is a special offroad suspension package.</dd>
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
